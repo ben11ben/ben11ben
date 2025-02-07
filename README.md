@@ -1,7 +1,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Ben+Rangel;I+like+java%2C+volleyball+and+traveling)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Ben+Rangel;I+like+programming+and+traveling)](https://git.io/typing-svg)
 
 
 - &#11088; I love learning different programming languages and finding new ways to ***create***
