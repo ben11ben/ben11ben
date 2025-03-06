@@ -5,8 +5,8 @@
 
 
 - &#11088; I love learning different programming languages and finding new ways to ***create***
-- 👨‍🎓: Studying computer science and UX/UI design
-- 🏕️ ; I love all things outdoors 
+- 👨‍🎓 Studying computer science and UX/UI design
+- 🏕️ I love all things outdoors 
 
 <h2 align="center"> 🎱: Things I'm learning and have learned</h2>
 
